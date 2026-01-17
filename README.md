@@ -1,5 +1,6 @@
 ## Hello 👋
-![Demo GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Demo GIF](https://media.gifdb.com/programming-coding-digital-marketing-b63zccx04i4luhh9.gif)
+
 ## 🌱 About me
 I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.
 I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.
