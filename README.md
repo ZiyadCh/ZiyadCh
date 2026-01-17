@@ -1,11 +1,11 @@
-##           ようこそ
+##ようこそ, I am Ziyad Cheto
 ![Demo GIF](assets/coder.gif)
 
 ## 🌱 About me
 I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.
-I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.
+I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling. ![coder GIF](assets/progeam.gif)
 I’m comfortable designing APIs, managing databases, and building responsive user interfaces.
-![coder GIF](assets/progeam.gif)
+
 
 ## 🛠️ Technologies and Tools I use
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
