@@ -1,5 +1,5 @@
 ## Hello 👋
-![Demo GIF](https://media.gifdb.com/programming-coding-digital-marketing-b63zccx04i4luhh9.gif)
+![Demo GIF](assets/giphy.gif)
 
 ## 🌱 About me
 I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.
