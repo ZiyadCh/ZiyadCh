@@ -1,10 +1,10 @@
-## ようこそ, I am Ziyad Cheto
+## <h1>ようこそ, I am Ziyad Cheto</h1> 
 ![Demo GIF](assets/coder.gif)
 
 ---
 
 ## 🌱 About Me
-<div style="display: flex; align-items: center; gap: 20px;">
+<div style="display: flex; align-items: center; gap: 20px; justify-content: space-between;">
   <p>
     I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.<br>
     I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.<br>
