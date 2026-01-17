@@ -8,7 +8,7 @@
     I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.<br>
     I’m comfortable designing APIs, managing databases, and building responsive user interfaces.
   </p>
-  <img src="assets/progeam.gif" alt="coder GIF" style="width:550px; height:auto; flex-shrink: 0;">
+  <img src="assets/progeam.gif" alt="coder GIF" style="width:250px; height:auto; flex-shrink: 0;">
 </div>
 
 
