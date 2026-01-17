@@ -1,4 +1,4 @@
-## Hello 👋
+##           ようこそ
 ![Demo GIF](assets/giphy.gif)
 
 ## 🌱 About me
