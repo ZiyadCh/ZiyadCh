@@ -1,5 +1,5 @@
 ##           ようこそ
-![Demo GIF](assets/giphy.gif)
+![code GIF](assets/coder.gif)
 
 ## 🌱 About me
 I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.
@@ -27,7 +27,7 @@ I’m comfortable designing APIs, managing databases, and building responsive us
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
+![Demo GIF](assets/giphy.gif)
 <!--
 **ZiyadCh/ZiyadCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
