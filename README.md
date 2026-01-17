@@ -3,11 +3,11 @@
 
 ## 🌱 About Me
 <div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
-  <img src="assets/progeam.gif" alt="coder GIF" style="width:150px; height:auto; flex-shrink: 0;">
   <p style="flex: 1; min-width: 0;">
     I build full-stack web applications using JavaScript and PHP, handling both frontend and backend development.<br>
     I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.<br>
     I’m comfortable designing APIs, managing databases, and building responsive user interfaces.
+  <img src="assets/progeam.gif" alt="coder GIF" style="width:150px; height:auto; flex-shrink: 0;">
   </p>
 </div>
 
