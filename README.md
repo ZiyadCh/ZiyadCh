@@ -1,5 +1,5 @@
 ## <h1>ようこそ, I am Ziyad Cheto</h1> 
-![Demo GIF](assets/coder.gif)
+  <img src="assets/progeam.gif" alt="coder GIF" style="width:250px; height:auto; flex-shrink: 0;">
 
 ## 🌱 About Me
 <div style="display: flex;justify-content:center; gap: 20px; align-items: flex-start; flex-wrap: nowrap;">
@@ -8,7 +8,6 @@
     I work with relational databases like MySQL and PostgreSQL, focusing on clean code, structured logic, and reliable data handling.<br>
     I’m comfortable designing APIs, managing databases, and building responsive user interfaces.
   </p>
-  <img src="assets/progeam.gif" alt="coder GIF" style="width:250px; height:auto; flex-shrink: 0;">
 </div>
 
 
@@ -33,3 +32,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+##
+![Demo GIF](assets/coder.gif)
