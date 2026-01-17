@@ -1,3 +1,4 @@
+<div style="display: flex; justify-content: center;">
 ## <h1>ようこそ, I am Ziyad Cheto</h1> 
   <img src="assets/progeam.gif" alt="coder GIF" style="width:250px; height:auto; flex-shrink: 0;">
 
@@ -34,3 +35,4 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ##
 ![Demo GIF](assets/coder.gif) 
+</div>
