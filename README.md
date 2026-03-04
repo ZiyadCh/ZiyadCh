@@ -17,10 +17,10 @@
 I'm a passionate full-stack developer focused on creating reliable, user-friendly web applications.  
 I handle both frontend and backend, with strong emphasis on clean code, structured architecture, and efficient data management.
 
-- 🔭 Currently building personal projects & preparing for internships  
+- 🔭 Currently building projects & preparing for internships  
 - 🌱 Learning advanced Laravel patterns, React best practices & modern deployment  
 - 💬 Ask me about: Laravel, React, APIs, relational databases  
-- 📫 Reach me: [chetoziyad@gmail.com](mailto:chetoziyad@gmail.com) | <a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/" ><a/> LinkedIn
+- 📫 Reach me: [chetoziyad@gmail.com](mailto:chetoziyad@gmail.com) | <a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/" >LinkedIn<a/> 
 
 ## 🛠️ Tech Stack
 
