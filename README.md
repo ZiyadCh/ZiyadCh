@@ -1,6 +1,6 @@
 <h1 align="center">ようこそ! I'm Ziyad Cheto 👋</h1>
 <p align="center">
-  <img src="https://media.tenor.com/BcJGMs47ggsAAAAM/happy-developer-happy-software-developer-happy-dev-gif-23282582.gif" alt="Cool Developer Coding GIF" width="320"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI0eThoZmE2OGpoeW02enBvMW9ub3lnemRuaDFsdndqbDlnZzJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" alt="Cool Developer Coding GIF" width="320"/>
 </p>
 <p align="center">
   <strong>Full-Stack Web Developer</strong> | Laravel + React | Building clean, scalable web apps
