@@ -20,7 +20,7 @@ I handle both frontend and backend, with strong emphasis on clean code, structur
 - 🔭 Currently building personal projects & preparing for internships  
 - 🌱 Learning advanced Laravel patterns, React best practices & modern deployment  
 - 💬 Ask me about: Laravel, React, APIs, relational databases  
-- 📫 Reach me: [ziyad.cheto@email.com](mailto:ziyad.cheto@email.com) | LinkedIn | Portfolio (add links!)
+- 📫 Reach me: [chetoziyad@gmail.com](mailto:chetoziyad@gmail.com) | <a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/" ><a/> LinkedIn
 
 ## 🛠️ Tech Stack
 
