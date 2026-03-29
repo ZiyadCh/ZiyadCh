@@ -93,12 +93,6 @@
 <img src="https://img.shields.io/badge/Always-Learning-5b21b6?style=for-the-badge&logoColor=white" />
 
 </div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:6d28d9,100:7c3aed&height=120&section=footer&animation=fadeIn" />
-
-
 <div align="center">
 
 
@@ -113,3 +107,9 @@
 </a>
 
 </div>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:6d28d9,100:7c3aed&height=120&section=footer&animation=fadeIn" />
+
+
+
