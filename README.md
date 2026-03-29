@@ -1,165 +1,207 @@
-# Hey, I'm Ziyad Cheto 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI0eThoZmE2OGpoeW02enBvMW9ub3lnemRuaDFsdndqbDlnZzJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" alt="Developer Coding" width="400" style="border-radius: 10px;"/>
-</p>
-
-<p align="center">
-  <a href="mailto:chetoziyad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ZiyadCh">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-## 💼 Full-Stack Developer | Laravel • React • Modern Web Apps
-
-I craft **elegant, scalable, and maintainable web applications** with meticulous attention to user experience and code quality. I thrive across the entire stack—from database architecture to pixel-perfect frontends.
-
-### 🎯 Current Mission
-- 🔨 Building production-grade projects and preparing for impactful internships
-- 📚 Mastering advanced Laravel patterns, React ecosystems, and cloud deployment strategies
-- 🏗️ Architecting clean systems with SOLID principles, design patterns & performance optimization
-- 💡 Deep-diving into Tailwind CSS mastery, modern DevOps, and microservices architecture
-
-### 📬 Let's Connect
-```
-📧 Email: chetoziyad@gmail.com
-💼 LinkedIn: ziyad-cheto-5b7638328
-🐙 GitHub: ZiyadCh
-```
-
----
-
-## 🛠️ Tech Arsenal
-
-### 🔧 Backend Stack
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend Stack
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Tools & DevOps
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 GitHub Activity & Analytics
-
-### 🔥 Commit History & Streaks
 <div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiyadCh&theme=radical&hide_border=true)
+<div align="center">
+
+<!-- BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:7e57c2&height=300&section=header&text=Ziyad%20Cheto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Ziyad Cheto — Full Stack Developer" />
 
 </div>
 
-### 📈 Overall Performance
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiyadCh&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true)
+<br/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7c3aed&center=true&vCenter=true&width=680&height=60&lines=Full+Stack+Developer;Crafting+elegant+solutions;Laravel+%26+React+enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
+
+<br/>
+
+<!-- Developer GIF -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI0eThoZmE2OGpoeW02enBvMW9ub3lnemRuaDFsdndqbDlnZzJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="70%" height="280" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ZiyadCh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/ZiyadCh?style=for-the-badge&color=7c3aed&labelColor=1e3c72&label=FOLLOWERS)](https://github.com/ZiyadCh)
 
 </div>
 
-### 🎯 Languages & Activity Breakdown
-<table width="100%">
-  <tr>
-    <td width="48%">
-      <h4 align="center">📝 Most Used Languages</h4>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyadCh&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
-    </td>
-    <td width="4%"></td>
-    <td width="48%">
-      <h4 align="center">⏱️ Coding Activity (WakaTime)</h4>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZiyadCh&layout=compact&theme=radical&hide_border=true" alt="Coding Activity" />
-    </td>
-  </tr>
-</table>
+---
+
+<div align="center">
+
+## 💼 About Me
+
+</div>
+```javascript
+const ziyad = {
+  location:      "Marrakesh, Morocco 🇲🇦",
+  role:          "Full Stack Developer",
+  currentFocus:  ["Laravel", "React", "TailwindCSS", "Docker"],
+  expertise:     ["PHP", "JavaScript", "MySQL", "PostgreSQL", "Modern Architecture"],
+  workingOn:     "Building scalable & beautiful web applications",
+  funFact:       "I debug with coffee ☕ and deep focus sessions",
+  philosophy:    "Clean code today, happy developers tomorrow",
+  lifeGoal:      "Contributing to open source & learning every single day",
+};
+```
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+**Frontend Arsenal**
+
+![HTML5](https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-6d28d9?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-5b21b6?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-4c1d95?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-7c3aed?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-6d28d9?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend & Databases**
+
+![PHP](https://img.shields.io/badge/PHP-7c3aed?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-6d28d9?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-5b21b6?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4c1d95?style=for-the-badge&logo=postgresql&logoColor=white)
+![RESTful+APIs](https://img.shields.io/badge/RESTful_APIs-7c3aed?style=for-the-badge&logo=api&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-6d28d9?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-7c3aed?style=for-the-badge&logo=docker&logoColor=white)
+![VS_Code](https://img.shields.io/badge/VS_Code-6d28d9?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-5b21b6?style=for-the-badge&logo=linux&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-4c1d95?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZiyadCh&show_icons=true&theme=midnight-blue&bg_color=0d0221&border_color=7c3aed&icon_color=6d28d9&title_color=7c3aed&text_color=ffffff&card_width=400" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadCh&theme=midnight-blue&background=0d0221&border=7c3aed&ring=7c3aed&fire=6d28d9&currStreakLabel=5b21b6&sideLabels=5b21b6" />
+
+<br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyadCh&layout=compact&theme=midnight-blue&bg_color=0d0221&border_color=7c3aed&title_color=7c3aed&text_color=ffffff&card_width=500" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Activity & Contribution Graph
+
+[![Ziyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&bg_color=0d0221&color=6d28d9&line=7c3aed&point=5b21b6&area=true&hide_border=false&title_color=7c3aed)](https://github.com/ZiyadCh)
+
+</div>
 
 ### 🐍 Contribution Graph
 <div align="center">
   <img src="https://raw.githubusercontent.com/ZiyadCh/ZiyadCh/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Animation" width="100%"/>
   <br/>
-  <em style="color: #888;">Watch the snake consume my contributions! 🎮</em>
+  <em style="color: #7c3aed;">Watch the snake consume my contributions! 🎮</em>
 </div>
 
 ---
 
-## 🎓 Learning Path & Growth Roadmap
+<div align="center">
+
+## 🎓 Learning Path & Growth
 
 | Area | Status | Current Focus |
 |------|--------|---|
-| **Backend Architecture** | 🔄 In Progress | SOLID Principles, Design Patterns, Microservices |
-| **React Ecosystem** | 🔄 In Progress | Advanced Hooks, State Management (Redux), Performance |
-| **Cloud & DevOps** | 🚀 Starting | Docker, CI/CD Pipelines, AWS / DigitalOcean |
-| **Database Design** | ✅ Solid Foundation | SQL Optimization, Indexing, Normalization, Query Analysis |
-| **Modern CSS** | ✨ Specializing | Tailwind CSS Mastery, Design Systems, Component Libraries |
+| **Backend Architecture** | 🔄 In Progress | SOLID Principles, Design Patterns |
+| **React Ecosystem** | 🔄 In Progress | Advanced Hooks, State Management |
+| **Cloud & DevOps** | 🚀 Starting | Docker, CI/CD, AWS / DigitalOcean |
+| **Database Design** | ✅ Solid | SQL Optimization, Indexing |
+| **Modern CSS** | ✨ Specializing | Tailwind CSS, Design Systems |
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⭐ Core Competencies
 
 | | | |
 |---|---|---|
-| ✨ **Clean Code** | ⚡ **Performance** | 🎨 **UI/UX Design** |
-| Readability, Maintainability, Documentation | Query Optimization, Caching, Lazy Loading | Responsive Design, User Experience |
-| 📐 **Architecture** | 🔒 **Security** | 🧪 **Testing** |
-| RESTful APIs, SOLID Principles, Design Patterns | Input Validation, CSRF Protection, SQL Injection Prevention | Unit Tests, Integration Tests, Debugging |
+| **✨ Clean Code** | **⚡ Performance** | **🎨 UI/UX Design** |
+| Readability & Documentation | Query Optimization & Caching | Responsive Design & UX |
+| **📐 Architecture** | **🔒 Security** | **🧪 Testing** |
+| SOLID & Design Patterns | Input Validation & Prevention | Unit & Integration Tests |
+
+</div>
 
 ---
 
-## 🚀 What I'm Building Right Now
+<div align="center">
 
-- 🏗️ Scalable Laravel applications with hexagonal/clean architecture
-- ⚛️ Interactive React components leveraging modern hooks and state management
-- 🎨 Beautiful, responsive UIs with Tailwind CSS and component-driven design
-- 🐳 Docker-containerized applications for consistent development & production environments
-- 📊 Advanced database optimization and performance tuning techniques
-- 🔄 CI/CD pipelines for automated testing and deployment
+## 🚀 Currently Building
 
----
+- 🏗️ Scalable Laravel applications with clean architecture
+- ⚛️ Interactive React components with modern hooks
+- 🎨 Beautiful responsive UIs with Tailwind CSS
+- 🐳 Docker-containerized production-ready apps
+- 📊 Advanced database optimization & tuning
+- 🔄 CI/CD pipelines & automated testing
 
-## 💡 Philosophy & Approach
-
-> "Code is poetry. It should be clean, elegant, and tell a story. Performance matters. User experience is paramount. Scalability saves future headaches."
-
-- **Quality Over Quantity** — I believe in shipping fewer features that are rock-solid
-- **User-Centric Design** — Every line of code serves the end user
-- **Continuous Learning** — The tech landscape evolves; so do I
-- **Collaboration** — Great products come from great teams
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Ready%20For%20Internships-brightgreen?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-brightgreen?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <strong>Let's build something extraordinary together! 🚀</strong>
-</p>
+## 💡 My Philosophy
+
+> "Code is poetry. It should be clean, elegant, and tell a story."
+
+**Quality Over Quantity** • **User-Centric Design** • **Continuous Learning** • **Collaboration**
 
 ---
 
-<p align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/ZiyadCh">Ziyad Cheto</a></sub>
-</p>
+<div align="center">
 
-[![Ziyad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&bg_color=1a0a2e&color=f0abfc&line=e879f9&point=ff6eb4&area=true&hide_border=false)](https://github.com/ZiyadCh)
+## 📬 Let's Connect
 
+<a href="mailto:chetoziyad@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/">
+  <img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ZiyadCh">
+  <img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Status
+
+<img src="https://img.shields.io/badge/Status-Ready%20For%20Internships-7c3aed?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20To-Opportunities-6d28d9?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Always-Learning-5b21b6?style=for-the-badge&logoColor=white" />
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:6d28d9,100:7c3aed&height=120&section=footer&animation=fadeIn" />
+
+<div align="center">
+
+<sub><a href="https://github.com/ZiyadCh">Ziyad Cheto</a></sub>
+
+</div>
