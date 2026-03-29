@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7c3aed&center=true&vCenter=true&width=680&height=60&lines=Full+Stack+Developer;Crafting+elegant+solutions;Laravel+%26+React+enthusiast;Building+scalable+web+apps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=900&color=7c3aed&center=true&vCenter=true&width=680&height=60&lines=Full+Stack+Developer;Crafting+elegant+solutions;Linux+Enthusiast;Building+scalable+web+apps;Performance" alt="Typing SVG" />
 
 <br/>
 
@@ -59,22 +59,6 @@
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZiyadCh&show_icons=true&theme=midnight-blue&bg_color=4d4291&border_color=7c3aed&icon_color=6d28d9&title_color=7c3aed&text_color=ffffff&card_width=400" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadCh&theme=midnight-blue&background=0d0221&border=7c3aed&ring=7c3aed&fire=6d28d9&currStreakLabel=5b21b6&sideLabels=5b21b6" />
-
-<br/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyadCh&layout=compact&theme=midnight-blue&bg_color=0d0221&border_color=7c3aed&title_color=7c3aed&text_color=ffffff&card_width=500" />
-
-</div>
-
----
-
-<div align="center">
 
 ## 📈 Activity & Contribution Graph
 
