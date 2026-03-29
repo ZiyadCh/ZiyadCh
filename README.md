@@ -52,9 +52,9 @@
 <br/>
 
 ### Contribution Graph
-<img src="https://raw.githubusercontent.com/ZiyadCh/ZiyadCh/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Animation" width="100%"/>
-<div align="center">
+
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=ZiyadCh&theme=dracula" width="100%" alt="3D Contribution Graph" />
+
 </div>
 </div>
 
