@@ -16,11 +16,6 @@
 <!-- Developer GIF -->
 <!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenI0eThoZmE2OGpoeW02enBvMW9ub3lnemRuaDFsdndqbDlnZzJlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="70%" height="280" /> -->
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ZiyadCh&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ZiyadCh?style=for-the-badge&color=7c3aed&labelColor=1e3c72&label=FOLLOWERS)](https://github.com/ZiyadCh)
 
 </div>
 
