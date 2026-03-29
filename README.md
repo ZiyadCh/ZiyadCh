@@ -51,7 +51,7 @@
   <img src="https://metrics.lecoq.io/ZiyadCh?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa/Casablanca" width="100%" alt="Ziyad's 3D Contribution Globe" />
 
 
-
+<img src="https://github-profile-trophy.vercel.app/?username=ZiyadCh&theme=dracula&no-frame=true&margin-w=15&column=7" alt="Ziyad's Trophies" />
 
 </div>
 
