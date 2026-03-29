@@ -160,3 +160,6 @@ I craft **elegant, scalable, and maintainable web applications** with meticulous
 <p align="center">
   <sub>Made with ❤️ by <a href="https://github.com/ZiyadCh">Ziyad Cheto</a></sub>
 </p>
+
+[![Razane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=razaane&bg_color=1a0a2e&color=f0abfc&line=e879f9&point=ff6eb4&area=true&hide_border=false)](https://github.com/razaane)
+
