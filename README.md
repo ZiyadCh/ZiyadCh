@@ -48,7 +48,7 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=catpuccin&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=react-dark&area=true&hide_border=true" width="100%" />
 <br/>
 
 ### Contribution Graph
