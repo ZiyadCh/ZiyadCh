@@ -62,6 +62,17 @@ I handle both frontend and backend, with strong emphasis on clean code, structur
 
 ---
 
+## 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZiyadCh&layout=compact&theme=radical&hide_border=true" alt="Coding Activity" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZiyadCh/ZiyadCh/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZiyadCh&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ziyad's GitHub Stats" />
