@@ -110,36 +110,8 @@ const ziyad = {
   <em style="color: #7c3aed;">Watch the snake consume my contributions! 🎮</em>
 </div>
 
----
 
-<div align="center">
 
-## 🎓 Learning Path & Growth
-
-| Area | Status | Current Focus |
-|------|--------|---|
-| **Backend Architecture** | 🔄 In Progress | SOLID Principles, Design Patterns |
-| **React Ecosystem** | 🔄 In Progress | Advanced Hooks, State Management |
-| **Cloud & DevOps** | 🚀 Starting | Docker, CI/CD, AWS / DigitalOcean |
-| **Database Design** | ✅ Solid | SQL Optimization, Indexing |
-| **Modern CSS** | ✨ Specializing | Tailwind CSS, Design Systems |
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Core Competencies
-
-| | | |
-|---|---|---|
-| **✨ Clean Code** | **⚡ Performance** | **🎨 UI/UX Design** |
-| Readability & Documentation | Query Optimization & Caching | Responsive Design & UX |
-| **📐 Architecture** | **🔒 Security** | **🧪 Testing** |
-| SOLID & Design Patterns | Input Validation & Prevention | Unit & Integration Tests |
-
-</div>
 
 ---
 
@@ -148,27 +120,12 @@ const ziyad = {
 ## 🚀 Currently Building
 
 - 🏗️ Scalable Laravel applications with clean architecture
-- ⚛️ Interactive React components with modern hooks
 - 🎨 Beautiful responsive UIs with Tailwind CSS
-- 🐳 Docker-containerized production-ready apps
 - 📊 Advanced database optimization & tuning
-- 🔄 CI/CD pipelines & automated testing
 
 </div>
 
----
 
-<div align="center">
-
-## 💡 My Philosophy
-
-> "Code is poetry. It should be clean, elegant, and tell a story."
-
-**Quality Over Quantity** • **User-Centric Design** • **Continuous Learning** • **Collaboration**
-
----
-
-<div align="center">
 
 ## 📬 Let's Connect
 
