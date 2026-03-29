@@ -46,9 +46,9 @@
 ##  Activity & Contribution Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=catpuccin&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=react-dark&area=true&hide_border=true" width="100%" />
+
+  <img src="https://metrics.lecoq.io/ZiyadCh?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa/Casablanca" width="100%" alt="Ziyad's 3D Contribution Globe" />
 <br/>
 
 ### Contribution Graph
