@@ -85,19 +85,6 @@
 
 
 
-## 📬 Let's Connect
-
-<a href="mailto:chetoziyad@gmail.com">
-<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/">
-<img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/ZiyadCh">
-<img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-</div>
 
 ---
 
@@ -115,8 +102,18 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:6d28d9,100:7c3aed&height=120&section=footer&animation=fadeIn" />
 
+
 <div align="center">
 
-<sub><a href="https://github.com/ZiyadCh">Ziyad Cheto</a></sub>
+
+<a href="mailto:chetoziyad@gmail.com">
+<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/">
+<img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/ZiyadCh">
+<img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
