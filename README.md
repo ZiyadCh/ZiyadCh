@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:7e57c2&height=300&section=header&text=Ziyad%20Cheto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Ziyad Cheto — Full Stack Developer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:7e57c2&height=200&section=header&text=Ziyad%20Cheto&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Ziyad Cheto — Full Stack Developer" />
 
 </div>
 
