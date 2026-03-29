@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=tokyonight&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=tokyonight-night&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
 
 <br/>
 
