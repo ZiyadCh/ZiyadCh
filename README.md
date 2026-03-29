@@ -47,15 +47,12 @@
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=react-dark&area=true&hide_border=true" width="100%" />
-
-  <img src="https://metrics.lecoq.io/ZiyadCh?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa/Casablanca" width="100%" alt="Ziyad's 3D Contribution Globe" />
 <br/>
+  <img src="https://metrics.lecoq.io/ZiyadCh?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=Africa/Casablanca" width="100%" alt="Ziyad's 3D Contribution Globe" />
 
-### Contribution Graph
 
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=ZiyadCh&theme=dracula" width="100%" alt="3D Contribution Graph" />
 
-</div>
+
 </div>
 
 ---
