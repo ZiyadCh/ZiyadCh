@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=react-dark&area=true&hide_border=true&custom_title=Coding%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=dracula&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
 
 <br/>
 
@@ -84,18 +84,18 @@
 <div align="center">
 
 <a href="mailto:chetoziyad@gmail.com">
-<img src="https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://www.linkedin.com/in/ziyad-cheto-5b7638328/">
-<img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/ZiyadCh">
-<img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/>
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5b21b6,50:6d28d9,100:7c3aed&height=120&section=footer&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=7c3aed&height=80&section=footer&text=CONTINUE%20BUILDING...&fontSize=20&animation=fadeIn" />
 
 </div>
