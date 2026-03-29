@@ -19,6 +19,7 @@ I handle both frontend and backend, with strong emphasis on clean code, structur
 - 📫 Reach me: [chetoziyad@gmail.com](mailto:chetoziyad@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ziyad-cheto-5b7638328/)
 
 ## 🛠️ Tech Stack
+
 ### Frontend & Backend
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -52,11 +53,31 @@ I handle both frontend and backend, with strong emphasis on clean code, structur
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZiyadCh&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Ziyad's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyadCh&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadCh&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind_Expertise-In_Progress-38B2AC?style=flat-square&logo=tailwind-css" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-Focus-blue?style=flat-square" />
 </p>
