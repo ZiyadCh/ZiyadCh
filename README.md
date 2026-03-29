@@ -50,19 +50,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 🚀 Currently Building
-
- Scalable Laravel applications with clean architecture
-   Beautiful responsive UIs with Tailwind CSS
-   Advanced database optimization & tuning
-
-</div>
-
----
 
 <div align="center">
 
