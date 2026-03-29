@@ -44,7 +44,9 @@
 ---
 
 ## 📈 Activity & Contribution Graph
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZiyadCh&theme=dracula&no-frame=true&column=7" alt="GitHub Trophies" />
+</div>
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=dracula&area=true&hide_border=true&custom_title=Developer%20Metrics" width="100%" />
