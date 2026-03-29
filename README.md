@@ -26,25 +26,7 @@
 
 ---
 
-<div align="center">
 
-## 💼 About Me
-
-</div>
-```javascript
-const ziyad = {
-  location:      "Marrakesh, Morocco 🇲🇦",
-  role:          "Full Stack Developer",
-  currentFocus:  ["Laravel", "React", "TailwindCSS", "Docker"],
-  expertise:     ["PHP", "JavaScript", "MySQL", "PostgreSQL", "Modern Architecture"],
-  workingOn:     "Building scalable & beautiful web applications",
-  funFact:       "I debug with coffee ☕ and deep focus sessions",
-  philosophy:    "Clean code today, happy developers tomorrow",
-  lifeGoal:      "Contributing to open source & learning every single day",
-};
-```
-
----
 
 <div align="center">
 
