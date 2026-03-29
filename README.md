@@ -61,11 +61,9 @@
 
 </div>
 
-### 🐍 Contribution Graph
+### Contribution Graph
 <div align="center">
-<img src="https://raw.githubusercontent.com/ZiyadCh/ZiyadCh/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Snake Animation" width="100%"/>
-<br/>
-<em style="color: #7c3aed;">Watch the snake consume my contributions! 🎮</em>
+<img src="https://raw.githubusercontent.com/ZiyadCh/ZiyadCh/output/github-contribution-grid-snake.svg" alt="GitHub Contributions Animation" width="100%"/>
 </div>
 
 
@@ -75,15 +73,13 @@
 
 <div align="center">
 
-## 🚀 Currently Building
+##  Currently Building
 
-- 🏗️ Scalable Laravel applications with clean architecture
-- 🎨 Beautiful responsive UIs with Tailwind CSS
-- 📊 Advanced database optimization & tuning
+  Scalable Laravel applications with clean architecture
+  Beautiful responsive UIs with Tailwind CSS
+  Advanced database optimization & tuning
 
 </div>
-
-
 
 
 ---
