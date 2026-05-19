@@ -79,14 +79,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZiyadCh&theme=tokyo-night&area=true&hide_border=true&custom_title=Contribution%20Flame" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZiyadCh&theme=tokyo-night&hide_border=true&border_radius=16&date_format=M%20j%2C%20Y" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ZiyadCh&theme=tokyo-night&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiyadCh&theme=tokyo-night&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
-</div>
 
 ---
 
