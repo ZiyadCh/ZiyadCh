@@ -1,7 +1,19 @@
 <div align="center">
 
   <!-- TOKYO NIGHT FIGLET -->
-  <pre style="font-family: monospace; background: #1a1b26; padding: 25px; border: 3px solid #9d7cd8; border-radius: 16px; overflow: hidden;">
+  <pre style="font-family: monospace; 
+              background: linear-gradient(135deg, #1a1b26 0%, #24283b 50%, #1a1b26 100%); 
+              color: transparent;
+              -webkit-background-clip: text;
+              background-clip: text;
+              padding: 28px 20px; 
+              border: 4px solid;
+              border-image: linear-gradient(to right, #7dcfff, #9d7cd8, #bb9af7, #7dcfff) 1;
+              border-radius: 20px; 
+              overflow: hidden;
+              text-shadow: 0 0 30px rgba(125, 207, 255, 0.6);
+              font-weight: 900;
+              line-height: 1.05;">
 ███████╗██╗██╗   ██╗ █████╗ ██████╗      ██████╗██╗  ██╗███████╗████████╗ ██████╗ 
 ╚══███╔╝██║╚██╗ ██╔╝██╔══██╗██╔══██╗    ██╔════╝██║  ██║██╔════╝╚══██╔══╝██╔═══██╗
   ███╔╝ ██║ ╚████╔╝ ███████║██║  ██║    ██║     ███████║█████╗     ██║   ██║   ██║
