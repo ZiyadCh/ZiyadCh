@@ -1,6 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:1e3c72,30:4c1d95,60:7e22ce,90:c026d3&height=280&section=header&text=Ziyad%20Cheto&fontSize=85&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Full%20Stack%20Developer&descAlignY=58&descSize=28" alt="Ziyad Cheto" />
-  
+  <pre style="font-family: monospace; background: linear-gradient(90deg, #0a0a0a, #1a0033); color: #00f0ff; padding: 20px; border: 2px solid #ff00ff; border-radius: 12px; overflow: hidden; text-shadow: 0 0 10px #00f0ff, 0 0 20px #ff00ff;">
+███████╗██╗███████╗ █████╗ ██████╗     ██████╗██╗  ██╗███████╗████████╗ ██████╗ 
+╚══███╔╝██║██╔════╝██╔══██╗██╔══██╗    ██╔════╝██║  ██║██╔════╝╚══██╔══╝██╔═══██╗
+ ████╔╝ ██║█████╗  ███████║██║  ██║    ██║     ███████║█████╗     ██║   ██║   ██║
+ ███╔═╝  ██║██╔══╝  ██╔══██║██║  ██║    ██║     ██╔══██║██╔══╝     ██║   ██║   ██║
+███████╗██║███████╗██║  ██║██████╔╝    ╚██████╗██║  ██║███████╗   ██║   ╚██████╔╝
+╚══════╝╚═╝╚══════╝╚═╝  ╚═╝╚═════╝      ╚═════╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ 
+  </pre>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=800&color=7c3aed&center=true&vCenter=true&width=780&height=70&lines=Full+Stack+Developer;Crafting+Pixel-Perfect+Experiences;Linux+%26+Neovim+Evangelist;Building+Scalable+Web+Apps;Performance+Obsessed;Always+One+Commit+Away" alt="Typing SVG" />
   
   <br/><br/>
