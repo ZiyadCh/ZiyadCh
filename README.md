@@ -32,13 +32,13 @@
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,bootstrap" alt="Frontend skills" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,laravel,mysql,postgres" alt="Backend skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql,postgres" alt="Backend skills" />
 </p>
 
 ### Tools, DevOps & Scripting
